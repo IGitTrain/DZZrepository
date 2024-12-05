@@ -1,0 +1,23 @@
+Source Location Report
+Summary report:
+DZZLIVE objects:
+    Objects with source in library DZZLIVE: 14
+
+Detail report:
+DZZLIVE objects:
+    Objects with source in library DZZLIVE:
+        *MODULE RPGLE   DZZLIVE/CUSMAIN                     
+        *FILE DSPF      DZZLIVE/MAINMENU                    
+        *MODULE RPGLE   DZZLIVE/CUSMNT                      
+        *FILE LF        DZZLIVE/CUSMSTL1                    
+        *FILE PF        DZZLIVE/CUSMST                      
+        *FILE DSPF      DZZLIVE/MNTMENU                     
+        *MODULE RPGLE   DZZLIVE/SCHNAM                      
+        *FILE LF        DZZLIVE/CUSMSTL3                    
+        *FILE DSPF      DZZLIVE/SCHNAMD                     
+        *MODULE RPGLE   DZZLIVE/SCHZIP                      
+        *FILE LF        DZZLIVE/CUSMSTL2                    
+        *FILE DSPF      DZZLIVE/SCHZIPD                     
+        *PGM RPGLE      DZZLIVE/SCHNAMRPG                   
+        *CMD            DZZLIVE/CUSTMAINT                   
+End of Source Location Report.
